@@ -1,0 +1,10 @@
+setup.py
+PyAutoSpeech/__init__.py
+PyAutoSpeech/audio_player.py
+PyAutoSpeech/pitch_shifter.py
+PyAutoSpeech/speech_conversion.py
+PyAutoSpeech.egg-info/PKG-INFO
+PyAutoSpeech.egg-info/SOURCES.txt
+PyAutoSpeech.egg-info/dependency_links.txt
+PyAutoSpeech.egg-info/requires.txt
+PyAutoSpeech.egg-info/top_level.txt
