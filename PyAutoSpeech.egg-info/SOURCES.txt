@@ -1,3 +1,8 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+Readme.txt
 setup.py
 PyAutoSpeech/__init__.py
 PyAutoSpeech/audio_player.py
