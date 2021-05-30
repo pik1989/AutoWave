@@ -10,7 +10,7 @@ def pitchShifter(audioname,shift,value):
             return(audio + value)
         elif shift=='d':
             # Reducing volume by 5
-            return(audio1 - value)
+            return(audio - value)
         else:
             print("Error in shifting the pitch")
     else:
