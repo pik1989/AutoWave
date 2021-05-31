@@ -6,6 +6,7 @@ Readme.txt
 setup.py
 PyAutoSpeech/__init__.py
 PyAutoSpeech/audio_player.py
+PyAutoSpeech/augumentor.py
 PyAutoSpeech/pitch_shifter.py
 PyAutoSpeech/speech_conversion.py
 PyAutoSpeech.egg-info/PKG-INFO
