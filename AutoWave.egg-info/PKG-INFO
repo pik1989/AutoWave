@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: AutoWave
+Version: 0.1
+Summary: Package contains functionality for speech analysis
+Home-page: UNKNOWN
+Author: Satyajit Pattnaik , Kalash Jindal
+Author-email: pattnaiksatyajit89@gmail.com , jindalkalash298@gmail.com
+License: MIT
+Description: This is the library for automating the speech analysis.
+        
+        Change Log
+        ==========
+        
+        0.1 (01/06/2021)
+        -------------------
+        - First Release
+Keywords: Speech
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
