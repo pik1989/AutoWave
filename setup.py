@@ -7,7 +7,7 @@ classifiers = [
 ]
 
 
-setup(name="PyAutoSpeech",
+setup(name="AutoWave",
 version="0.1",
 description="Package contains functionality for speech analysis",
 long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read() ,
@@ -17,6 +17,6 @@ author_email='pattnaiksatyajit89@gmail.com , jindalkalash298@gmail.com',
 license='MIT', 
 classifiers=classifiers,
 keywords='Speech',
-packages=['PyAutoSpeech'],
+packages=['AutoWave'],
 install_requires=["pydub",]
 )
