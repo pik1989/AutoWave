@@ -1,1 +1,4 @@
 pydub
+librosa
+soundfile
+numpy
