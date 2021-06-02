@@ -12,11 +12,11 @@ version="0.1",
 description="Package contains functionality for speech analysis",
 long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read() ,
 url='',  
-author='Satyajit Pattnaik , Kalash Jindal',
-author_email='pattnaiksatyajit89@gmail.com , jindalkalash298@gmail.com',
+author='Satyajit Pattnaik , Kalash Jindal, Nilesh Verma',
+author_email='pattnaiksatyajit89@gmail.com , jindalkalash298@gmail.com, me@nileshverma.com‎',
 license='MIT', 
 classifiers=classifiers,
 keywords='Speech',
 packages=['AutoWave'],
-install_requires=["pydub",]
+install_requires=["pydub","librosa","soundfile","numpy"]
 )
