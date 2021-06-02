@@ -1,0 +1,16 @@
+CHANGELOG.txt
+License.txt
+MANIFEST.in
+README.md
+Readme.txt
+setup.py
+AutoWave/__init__.py
+AutoWave/audio_player.py
+AutoWave/augumentor.py
+AutoWave/pitch_shifter.py
+AutoWave/speech_conversion.py
+AutoWave.egg-info/PKG-INFO
+AutoWave.egg-info/SOURCES.txt
+AutoWave.egg-info/dependency_links.txt
+AutoWave.egg-info/requires.txt
+AutoWave.egg-info/top_level.txt
