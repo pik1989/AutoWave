@@ -1,4 +1,5 @@
 CHANGELOG.txt
+CONTRIBUTORS.txt
 License.txt
 MANIFEST.in
 README.md
