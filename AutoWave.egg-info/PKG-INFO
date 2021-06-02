@@ -3,8 +3,8 @@ Name: AutoWave
 Version: 0.1
 Summary: Package contains functionality for speech analysis
 Home-page: UNKNOWN
-Author: Satyajit Pattnaik , Kalash Jindal
-Author-email: pattnaiksatyajit89@gmail.com , jindalkalash298@gmail.com
+Author: Satyajit Pattnaik , Kalash Jindal, Nilesh Verma
+Author-email: pattnaiksatyajit89@gmail.com , jindalkalash298@gmail.com, me@nileshverma.com‎
 License: MIT
 Description: This is the library for automating the speech analysis.
         
