@@ -18,5 +18,5 @@ license='MIT',
 classifiers=classifiers,
 keywords='Speech',
 packages=['AutoWave'],
-install_requires=["pydub","librosa","soundfile","numpy"]
+install_requires=["pydub","librosa","soundfile","numpy","matplotlib","scipy","datetime"]
 )
