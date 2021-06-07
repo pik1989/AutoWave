@@ -1,7 +1,7 @@
 from pydub import AudioSegment
 import os
 
-def speechConversion(audioname,input_format,output_format):
+def audioConversion(audioname,input_format,output_format):
     formats_to_convert = ['.'+input_format]  
     if audioname.endswith(tuple(formats_to_convert)):
         (path, file_extension) = os.path.splitext(audioname)
