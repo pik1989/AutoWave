@@ -2,6 +2,9 @@ from pydub import AudioSegment
 import os
 
 def audioConversion(audioname,input_format,output_format):
+    '''
+    This function is used to convert the format of single audio file into another.
+    '''
     formats_to_convert = ['.'+input_format]  
     if audioname.endswith(tuple(formats_to_convert)):
         (path, file_extension) = os.path.splitext(audioname)
@@ -16,3 +19,14 @@ def audioConversion(audioname,input_format,output_format):
             print('CONVERTED: ' + str(audioname)) 
         except:
             print("ERROR CONVERTING " + str(audioname))
+
+def augumentFolderRate(input_path,input_format,output_format):
+    '''
+    This function is used to convert the format of  audio file into another in a folder.
+    '''
+    os.chdir( input_path)
+    for file in glob.glob("*.wav"):
+        print(file)
+        audioConversion(audioname,input_format,output_format)
+    print("Augmentation Completed")
+        
