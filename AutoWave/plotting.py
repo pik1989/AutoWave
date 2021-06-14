@@ -7,7 +7,7 @@ from scipy.io import wavfile as wav
 from scipy.fftpack import fft
 import numpy as np
 import librosa
-%matplotlib inline
+
 import matplotlib.pyplot as plt
 import librosa.display
 from sklearn.preprocessing import minmax_scale
@@ -127,7 +127,7 @@ class plotMultipleFile():
     '''
     This class is used for plotting of multiple files by default is 10
     '''
-    def time_freq_domain(path,number_of_plot=10):
+    def time_freq_domain(path,number_of_plots=10):
         '''
         Plot for time frequency domain
         '''
